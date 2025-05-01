@@ -1,0 +1,14 @@
+ipyleaflet
+ipywidgets
+matplotlib
+numpy
+opencv-python>
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
+sqlalchemy
+sympy
+xgboost
+statsmodels
